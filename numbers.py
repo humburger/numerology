@@ -68,7 +68,7 @@ if ( len( sys.argv ) == 2 ):
 
 		print_res( sys.argv[1])
 	else:
-		print( 'String contains unknown symbols or "0"' )
+		print( 'String contains unknown symbols' )
 	
 else:
 	print( "Pass only one arg!" )
