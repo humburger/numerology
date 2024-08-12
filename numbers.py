@@ -21,11 +21,6 @@ def c09(c, a, b):
 	else:
 		return False
 
-# ascii table nums
-def ascii(a, b):
-    for i in xrange(a, b + 1):
-        print( str(i) )
-        
 # validate string
 def valid(s):
 	for c in s:
